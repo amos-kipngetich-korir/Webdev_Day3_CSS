@@ -1,0 +1,17 @@
+h1, h2, p {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: #333333;
+  }
+  
+  a {
+    color: #007acc;
+  }
+  
+  .section-margin {
+    margin: 20px;
+  }
+  
+  .section-padding {
+    padding: 10px;
+  }
